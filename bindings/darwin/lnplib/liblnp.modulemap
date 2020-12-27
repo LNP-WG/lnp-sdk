@@ -1,0 +1,6 @@
+framework module lnplib {
+    umbrella header "liblnp.h"
+    
+    export *
+    module * { export * }
+}

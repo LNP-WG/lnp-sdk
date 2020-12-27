@@ -1,0 +1,5 @@
+**/__pycache__
+**/*.so
+/build
+/lnp.py
+/swig_wrap.cpp

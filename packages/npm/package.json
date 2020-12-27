@@ -1,0 +1,11 @@
+{
+  "name": "@lnp-bp/lnp",
+  "version": "0.2.0-alpha.1",
+  "description": "LNP library: Bitcoin & Lightning Network smart contracts layer",
+  "main": "../../wrappers/ecmascript/lnp.js",
+  "author": "LNP/BP Standards Association",
+  "license": "MIT",
+  "dependencies": {
+    "lnplib": "../../bindings/npm"
+  }
+}
